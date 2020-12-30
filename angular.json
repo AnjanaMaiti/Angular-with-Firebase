@@ -120,6 +120,10 @@
               "devServerTarget": "Angular-Firebase:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
     }

@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-demo-d31bb": {
+      "hosting": {
+        "Angular-Firebase": [
+          "fir-demo-d31bb"
+        ]
+      }
+    }
+  }
+}
